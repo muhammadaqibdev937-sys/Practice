@@ -12,6 +12,16 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.box {
+  border: 1px solid #999;
+  padding: 10px;
+  margin: 10px;
+}
+
+.highlight {
+  background: black;
+  color: white;
+}
 
 a {
   font-weight: 500;

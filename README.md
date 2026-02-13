@@ -1,6 +1,6 @@
-# Delta Practice
+# Practice
 
-This repository is created for **separate practice work** related to the Delta course.
+This repository is created for **separate practice work** .
 
 ## 📌 Purpose
 - Practice coding concepts learned in Delta
@@ -18,7 +18,3 @@ This repository is created for **separate practice work** related to the Delta c
 
 ## 🎯 Goal
 To improve understanding through **regular practice** and **experimentation**.
-
----
-
-Happy Coding 🚀
